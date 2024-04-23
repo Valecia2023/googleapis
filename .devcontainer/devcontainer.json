@@ -1,0 +1,14 @@
+
+Request Id: 6abeb1c7-5597-45b9-9eba-888c365f7c00
+Correlation Id: b70152d0-15e3-4db0-b92e-b4c68c85fc54
+Timestamp: 2024-04-23T04:05:18.015Z
+App name: microsoft-mcr-discovery-portal
+App id: a92480de-962c-4330-b3f5-00a0ca97b29c
+IP address: 2607:fb91:16a0:86fe:f679:cef3:6d0a:9bc1
+Device identifier: 
+Device platform: Android
+Device state: Unregistered
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
